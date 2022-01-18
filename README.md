@@ -1,1 +1,2 @@
-# join-github-classroom
+# Join GitHub Classroom
+This assignment is a non-graded assignment. Its sole purpose is to get you to join the GitHub Classroom for DMIT1530-OA02 (Winter 2022) and link your GitHub account to your name in the class list. It is **strongly** recommeded to complete this activity prior to the **In-Class Build #1**. There is no submission for this assignment, but you should practice by uploading any completed in-class demo to this assignment.
